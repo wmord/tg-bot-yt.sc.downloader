@@ -1,5 +1,5 @@
 # Telegram bot for downloading music from Soundcloud/Youtube (mp3 format)
-
+### Current version: 0.1
 
 > [!WARNING]
 > The bot is still rough around the edges; recommend reviewing the code before running it. I am not responsible for your actions
