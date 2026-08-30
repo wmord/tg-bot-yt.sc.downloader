@@ -1,5 +1,10 @@
 # Telegram bot for downloading music from Soundcloud/Youtube
 
+
+> [!WARNING]
+> The bot is still rough around the edges; I recommend reviewing the code before running it. I am not responsible for your actions.
+
+
 ## Usage
 1. Install uv: `curl -LsSf https://astral.sh/uv/install.sh`
 2. Clone git repo: git clone `https://github.com/wmord/tg-bot-yt.sc.downloader`
@@ -9,10 +14,7 @@
 ## How to get bot token?
 1. Start bot **@BotFather** in Telegram
 2. Type **/newbot** and follow the instructions
-3. Copy the line following "Use this token to access the HTTP API:", it's your bot token
+3. Copy the line following _"Use this token to access the HTTP API:"_, it's your bot token
 
 ## Where can i find my UID?
 In the bot **@username_to_id_bot** in telegram
-
-> [!WARNING]
-> The bot is still rough around the edges; I recommend reviewing the code before running it. I am not responsible for your actions.
