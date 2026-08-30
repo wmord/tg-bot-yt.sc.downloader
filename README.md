@@ -18,3 +18,5 @@
 
 ## Where can i find my UID?
 In the bot **@username_to_id_bot** in telegram
+
+[If this project helped you](https://github.com/wmord/wmord/blob/main/sup.md)
