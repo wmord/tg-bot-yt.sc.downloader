@@ -2,7 +2,7 @@
 
 
 > [!WARNING]
-> The bot is still rough around the edges; I recommend reviewing the code before running it. I am not responsible for your actions.
+> The bot is still rough around the edges; recommend reviewing the code before running it. I am not responsible for your actions.
 
 
 ## Usage
