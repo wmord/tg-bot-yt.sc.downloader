@@ -12,11 +12,11 @@
 4. In cloned directory launch: `TOKEN=YOUR_BOT_TOKEN uv run main.py`
 
 ## How to get bot token?
-1. Start bot [**@BotFather**](t.me/BotFather) in Telegram
+1. Start bot [**@BotFather**](https://t.me/BotFather) in Telegram
 2. Type **/newbot** and follow the instructions
 3. Copy the line following _"Use this token to access the HTTP API:"_, it's your bot token
 
 ## Where can i find my UID?
-In the bot [**@username_to_id_bot**](t.me/username_to_id_bot) in telegram
+In the bot [**@username_to_id_bot**](https://t.me/username_to_id_bot) in telegram
 
 [If this project helped you](https://github.com/wmord/wmord/blob/main/sup.md)
